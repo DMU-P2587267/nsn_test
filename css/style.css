@@ -1,6 +1,7 @@
 body {
   background: #003366;
   min-height: 100vh;
+  position: relative;
 }
 
 .timeline-bg{
@@ -8,6 +9,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
+  position: relative;
 }
 
 .contacts{
@@ -15,6 +17,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
+  position: relative;
 }
 
 .extras{
@@ -22,6 +25,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
+  position: relative;
 }
 
 p{
@@ -90,8 +94,8 @@ footer{
   padding: 20px;
   margin-top: auto;
   color: white;
-  position: sticky;
-  top: 100%;
+  position: absolute;
+  bottom: 0;
 }
 
 .timeline {
