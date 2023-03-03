@@ -92,7 +92,8 @@ footer{
   background-color: #0066CC;
   border-width: 2px;
   padding: 20px;
-  margin-top: auto;
+  
+  margin: 8px;
   color: white;
   position: absolute;
   bottom: 0;
